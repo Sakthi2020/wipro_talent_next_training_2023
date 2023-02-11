@@ -1,0 +1,48 @@
+#include<stdio.h>
+#include<string.h>
+// Read only region start
+
+int countEvens(int input1,int input2,int input3,int input4,int input5)
+{
+    // Read only region end
+	// Write code here
+    int count_odd=0;
+    int count_even=0;
+    int x;
+    x=strlen(input6);
+    if(input1%2==0){
+        count_even++;
+    }
+    else{
+         count_odd++;
+    }
+    if(input1%2==0){
+        count_even++;
+    }
+    else{
+         count_odd++;
+    }
+    if(input1%2==0){
+        count_even++;
+    }
+    else{
+         count_odd++;
+    }
+    if(input2%2==0){
+        count_even++;
+    }
+    else{
+         count_odd++;
+    }
+    if(input3%2==0){
+        count_even++;
+    }
+    else{
+         count_odd++;
+    }
+    if(input4%2==0){
+        count_even++;
+    }
+    else{
+         count_odd++;
+    }
