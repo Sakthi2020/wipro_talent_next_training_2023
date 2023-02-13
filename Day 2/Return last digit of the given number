@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<string.h>
+// Read only region start
+
+int isLastDigit(int input1)
+{
+    // Read only region end
+	// Write code here
+  int x;
+  x=input1%10;
+  return x;
+  }
